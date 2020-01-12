@@ -10,6 +10,6 @@ For instructions on how to import this into your Kibana instance after you start
 
 https://www.elastic.co/guide/en/kibana/current/managing-saved-objects.html
 
-Example Dashboard:
+Example Canvas Dashboard:
 
 ![IIoT Conveyor Belt Canvas Workpad](https://github.com/codingogre/IIoT/raw/master/IIoT%20Conveyor%20Belt%20Canvas%20Dashboard.png) <!-- .element height="50%" width="50%" -->
