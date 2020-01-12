@@ -12,4 +12,4 @@ https://www.elastic.co/guide/en/kibana/current/managing-saved-objects.html
 
 Example Dashboard:
 
-![IIoT Conveyor Belt Canvas Workpad](http://github.com/codingogre/IIoT/blob/master/IIoT%20Conveyor%20Belt%20Canvas%20Dashboard.png)
+![IIoT Conveyor Belt Canvas Workpad](https://github.com/codingogre/IIoT/raw/master/IIoT%20Conveyor%20Belt%20Canvas%20Dashboard.png) <!-- .element height="50%" width="50%" -->
